@@ -91,5 +91,6 @@ while win is False and over is False:
             row3[input[1]].insert(player2)
         display(rows,row2,row3)    
         win(rows,row2)
+        print('lol')
         
         not left
